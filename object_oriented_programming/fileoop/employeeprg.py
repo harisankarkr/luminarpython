@@ -18,3 +18,14 @@ for lines in f:
 
 for emp in lst:
     print(emp)
+
+upp=list(map(lambda emp:emp.name.upper(),lst))
+print(upp)
+
+devp=list(filter(lambda emp:emp.desig=='developer',lst))
+for emp in devp:
+    print(emp)
+
+sal=list(filter(lambda emp:int(emp.salary)>23000,lst))
+for emp in sal:
+    print(emp)
