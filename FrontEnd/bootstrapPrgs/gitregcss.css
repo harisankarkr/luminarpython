@@ -1,0 +1,13 @@
+.form-control{
+margin-bottom:10px;
+}
+#new{
+text-align:center;
+border-style:solid;
+border-color:black;
+border-width:0.5px;
+}
+#last{
+text-align:center;
+padding-top:20px;
+}

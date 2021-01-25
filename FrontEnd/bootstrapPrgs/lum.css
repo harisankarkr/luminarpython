@@ -1,0 +1,55 @@
+#img1{
+margin-top:15%;
+margin-left:10%;
+width:200px;
+height:500px;
+}
+#cont{
+margin-top:23%;
+}
+.nav-item{
+float:right;
+}
+.card:hover{
+width:20px;
+}
+.header-top{
+background-color:#5e068a;
+color:white;
+font-size:12px;
+padding-top:1px;
+}
+
+button {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+button {
+  background-color: #5e068a;
+  color: white;
+  border: 2px solid #5e068a;
+}
+
+button:hover {
+  background-color: white;
+  border-radius:30px;
+  color: #5e068a;;
+}
+.btn{
+  background-color: #5e068a;
+  color: white;
+  border: 2px solid #5e068a;
+}
+.card-title{
+color:#5e068a;
+}
